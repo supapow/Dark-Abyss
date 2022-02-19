@@ -12,13 +12,44 @@
   "engines": {
     "vscode": "^1.64.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/supapow/Dark-Abyss"
+  },
+  "galleryBanner": {
+    "color": "#0d0e14",
+    "theme": "dark"
+  },
+  "icon": "images/icon/dark-abyss-logo-bg_300x300.png",
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "One Dark",
+    "Dark theme",
+    "Night Mode",
+    "Material Theme",
+    "casus",
+    "supapow",
+    "purple",
+    "dark blue",
+    "dark purple",
+    "purple dark",
+    "blue dark",
+    "abyss",
+    "space",
+    "deep",
+    "pink",
+    "blue",
+    "dark mode",
+    "vscode",
+    "atom",
+    "github"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Generated theme",
+        "label": "Dark Abyss",
         "uiTheme": "vs-dark",
         "path": "./theme.json"
       }

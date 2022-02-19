@@ -1,17 +1,17 @@
-# vscode-theme-generator-quick-start
 
-**Clone and run for a quick way to get started with [vscode-theme-generator](https://github.com/Tyriar/vscode-theme-generator).**
+[![Dark Abyss](https://raw.githubusercontent.com/supapow/Dark-Abyss/master/images/dark-abyss.jpg)]
+# Dark Abyss Theme for VS Code
+[![Version](Link here)](https://marketplace.visualstudio.com/items?itemName=supapow-dark-abyss)
 
-## How to build the theme
+## Installation
+1. Open the extensions sidebar on Visual Studio Code
+1. Search for Dark Abyss
+1. Click Install
+1. Click Reload to reload your editor
+1. Select the Manage Cog (bottom left) > Color Theme ＞ Dak Abyss
+1. 🌟🌟🌟🌟🌟 Rate five-stars 😃
 
-You need [NodeJS](https://nodejs.org/en/) installed to run the generator.
 
-```js
-npm install
-```
-
-Make your changes to the colors in index.ts and hit F5 to build the theme and launch the a new VS Code window with your theme available in the command palette (`ctrl`/`cmd+shift+p` > "Color Theme").
-
-## Publishing
-
-When you're ready to publish your theme just fill out the `"name"`, `"displayName", `"publisher"` and `"description"` values in the package.json and [publish it like any other extension](https://code.visualstudio.com/docs/extensions/publish-extension).
+## How to make your own theme
+Want to learn how to make your own theme?? Check out this video:
+[![How to make a VS Code theme](https://img.youtube.com/vi/QCqWzb-9Sy8/0.jpg)](https://www.youtube.com/watch?v=QCqWzb-9Sy8)
