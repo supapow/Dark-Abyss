@@ -1,5 +1,5 @@
 
-[Dark Abyss](https://raw.githubusercontent.com/supapow/Dark-Abyss/master/images/dark-abyss.jpg)
+![Dark Abyss](https://raw.githubusercontent.com/supapow/Dark-Abyss/master/images/dark-abyss.jpg)
 # Dark Abyss Theme for VS Code
 [![Version](Link here)](https://marketplace.visualstudio.com/items?itemName=supapow-dark-abyss)
 
